@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@500&display=swap');
+
+body {
+  background: black;
+  font-family: "Source Sans 3", sans-serif;
+  color: white;
+}
+
+.home {
+  text-align: center;
+}
+
+.quizmaker {
+  background: mediumpurple;
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+  font-size: 50px;
+}
+
+.start {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  background: mediumpurple;
+  color: white;
+  border-radius: 10px;
+  font-size: 30px;
+  width: 250px;
+  height: 75px;
+  border: none;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  line-height: 75px;
+}
+
+form {
+  background: white;
+  color: black;
+  width: 80%;
+  padding-left: 50px;
+  padding-top: 20px;
+  border-radius: 10px;
+  padding-bottom: 20px;
+  text-align: left;
+  max-height: 60vh;
+  overflow-y: auto;
+  font-size: 25px;
+}
+
+input {
+  width: 90%;
+  height: 50px;
+  border: 2px solid mediumpurple;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+
+.quizinfo {
+  width: 200px;
+  height: 50px;
+  background: mediumpurple;
+  color: white;
+  border-radius: 10px;
+  padding-left: 5px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  line-height: 50px;
+}
+
+form button {
+  background: mediumpurple;
+  color: white;
+  border-radius: 10px;
+  font-size: 30px;
+  width: 75%;
+  height: 70px;
+  margin-top: 50px;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  position: fixed;
+}
+
+.rowone, .rowtwo, .rowthree, .rowfour, .rowfive {
+  width: 100%;
+  height: 100%;
+}
+
+.rows {
+  max-height: calc(60vh - 120px);
+}
+
+.next {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+}
+
+span {
+  display: inline-block;
+  float: left;
+  padding: 25px;
+}
+
+span button {
+  background: none;
+  float: left;
+  border: none;
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+}
