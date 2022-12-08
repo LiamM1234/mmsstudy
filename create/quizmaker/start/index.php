@@ -39,7 +39,7 @@
        Option 2:<br>
       <input type="text" name="Question-1-Option-2"><br><br> 
        Option 3:<br>
-      <input type="text" name="Question-1-Option-4"><br><br> 
+      <input type="text" name="Question-1-Option-3"><br><br> 
        Option 4:<br>
       <input type="text" name="Question-1-Option-4"><br><br> 
        </div>
@@ -51,7 +51,7 @@
        Option 2:<br>
       <input type="text" name="Question-2-Option-2"><br><br> 
        Option 3:<br>
-      <input type="text" name="Question-2-Option-4"><br><br> 
+      <input type="text" name="Question-2-Option-3"><br><br> 
        Option 4:<br>
       <input type="text" name="Question-2-Option-4"><br><br> 
        </div>
@@ -63,7 +63,7 @@
        Option 2:<br>
       <input type="text" name="Question-3-Option-2"><br><br> 
        Option 3:<br>
-      <input type="text" name="Question-3-Option-4"><br><br> 
+      <input type="text" name="Question-3-Option-3"><br><br> 
        Option 4:<br>
       <input type="text" name="Question-3-Option-4"><br><br> 
        </div>
@@ -76,7 +76,7 @@
        Option 2:<br>
       <input type="text" name="Question-4-Option-2"><br><br> 
        Option 3:<br>
-      <input type="text" name="Question-4-Option-4"><br><br> 
+      <input type="text" name="Question-4-Option-3"><br><br> 
        Option 4:<br>
       <input type="text" name="Question-4-Option-4"><br><br> 
        </div>
@@ -88,7 +88,7 @@
        Option 2:<br>
       <input type="text" name="Question-5-Option-2"><br><br> 
        Option 3:<br>
-      <input type="text" name="Question-5-Option-4"><br><br> 
+      <input type="text" name="Question-5-Option-3"><br><br> 
        Option 4:<br>
       <input type="text" name="Question-5-Option-4"><br><br> 
        </div>
@@ -100,7 +100,7 @@
        Option 2:<br>
       <input type="text" name="Question-6-Option-2"><br><br> 
        Option 3:<br>
-      <input type="text" name="Question-6-Option-4"><br><br> 
+      <input type="text" name="Question-6-Option-3"><br><br> 
        Option 4:<br>
       <input type="text" name="Question-6-Option-4"><br><br> 
        </div>
@@ -112,9 +112,41 @@
        Option 2:<br>
       <input type="text" name="Question-7-Option-2"><br><br> 
        Option 3:<br>
-      <input type="text" name="Question-7-Option-4"><br><br> 
+      <input type="text" name="Question-7-Option-3"><br><br> 
        Option 4:<br>
       <input type="text" name="Question-7-Option-4"><br><br> 
+           Question 8:<br>
+      <input type="text" name="Question-8"><br><br> 
+       Option 1:<br>
+      <input type="text" name="Question-8-Option-1"><br><br> 
+       Option 2:<br>
+      <input type="text" name="Question-8-Option-2"><br><br> 
+       Option 3:<br>
+      <input type="text" name="Question-8-Option-3"><br><br> 
+       Option 4:<br>
+      <input type="text" name="Question-8-Option-4"><br><br> 
+           Question 9:<br>
+      <input type="text" name="Question-9"><br><br> 
+       Option 1:<br>
+      <input type="text" name="Question-9-Option-1"><br><br> 
+       Option 2:<br>
+      <input type="text" name="Question-9-Option-2"><br><br> 
+       Option 3:<br>
+      <input type="text" name="Question-9-Option-3"><br><br> 
+       Option 4:<br>
+      <input type="text" name="Question-9-Option-4"><br><br>
+           Question 10:<br>
+      <input type="text" name="Question-10"><br><br> 
+       Option 1:<br>
+      <input type="text" name="Question-10-Option-1"><br><br> 
+       Option 2:<br>
+      <input type="text" name="Question-10-Option-2"><br><br> 
+       Option 3:<br>
+      <input type="text" name="Question-10-Option-3"><br><br> 
+       Option 4:<br>
+      <input type="text" name="Question-10-Option-4"><br><br> 
+           <h4 class="note">Your study guide will be approved and put up in 24 hours or less</h4>
+           <br>
        </div>
        </div>
       <button type="submit" value="Submit"><i class="fas fa-paper-plane"></i> Submit Quiz</button>

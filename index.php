@@ -1,1 +1,1 @@
-<script>window.location.href = "/comingsoon";</script>
+<script>window.location.href = "/home";</script>

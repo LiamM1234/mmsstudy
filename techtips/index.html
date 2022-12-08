@@ -28,7 +28,7 @@
                <li><a href="/studyguides"><i class="fas fa-list"></i>Study Guides</a></li>
                <li><a href="/create"><i class="fas fa-plus-circle"></i>Create Study Guide</a></li>
                <li><a href="/techtips"><i class="fas fa-cog"></i>Tech Tips</a></li>
-               <li><a href="/chat"><i class="fas fa-comments"></i>Chat</a></li>
+               <li><a href="chat.php"><i class="fas fa-comments"></i>Chat</a></li>
                <li><a href="/dictionary"><i class="fas fa-book"></i>Dictionary</a></li>
                <li><a href="/contact" target="__blank"><i class="fas fa-envelope"></i>Contact Us</a></li>
                <!--<div class="icons">

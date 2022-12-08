@@ -119,3 +119,8 @@ span button {
   font-size: 25px;
   cursor: pointer;
 }
+
+.note {
+  color: red;
+  margin-top: 20px;
+}
