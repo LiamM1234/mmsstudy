@@ -1,90 +1,112 @@
 let questions = [
     {
     numb: 1,
-    question: "What is a Triple Beam Balance used for?",
-    answer: "Mass",
+    question: "Who wrote 'Common Sense'?",
+    answer: "Thomas Paine",
     options: [
-      "Volume",
-      "Mass",
-      "Density",
-      "Velocity"
+      "Thomas Jefferson",
+      "Thomas Paine",
+      "George Washington",
+      "Richard Henry Lee"
     ]
   },
     {
     numb: 2,
-    question: "Calculate the density: 10g / 5cm^3",
-    answer: "2g/cm^3",
+    question: "Who was Nathan Hale?",
+    answer: "A Patriot Spy",
     options: [
-      "2g/cm^3",
-      "5g/cm^3",
-      "2g",
-      "1cm^3"
+      "Trained Patriots",
+      "Provided Money to Patriots",
+      "A Patriot Mailman",
+      "A Patriot Spy"
     ]
   },
     {
     numb: 3,
-    question: "What does dam stand for?",
-    answer: "Dekameter",
+    question: "NJ is known as _.",
+    answer: "The Crossroads of the Revolution",
     options: [
-      "Decimeter",
-      "Dekameter",
-      "Millimeter",
-      "Duckmeter"
+      "The Crossroads of the Revolution",
+      "Live Free or Die",
+      "The Best State",
+      "Washinton's Favorite State"
     ]
   },
     {
     numb: 4,
-    question: "What does mL stand for?",
-    answer: "Milliliter",
+    question: "Which battle happened on Dec. 26?",
+    answer: "Trenton",
     options: [
-      "Kiloliter",
-      "Centiliter",
-      "Milliliter",
-      "Microliter"
+      "Princeton",
+      "Trenton",
+      "Jersey City",
+      "Short Hills"
     ]
   },
     {
     numb: 5,
-    question: "100km = ___m",
-    answer: "100000",
+    question: "Benedict Arnold was a _",
+    answer: "Hero",
     options: [
-      "10000",
-      "100000",
-      "1000000",
-      "100"
+      "French Traitor",
+      "Elephant",
+      "Amigo",
+      "Hero"
     ]
   },
   {
   numb: 6,
-  question: "A container has a density of 1.5. Will it float?",
-  answer: "No",
+  question: "Who was the Spanish governer who aided the Patriots?",
+  answer: "Bernando de Gálvez",
   options: [
-    "Yes",
-    "No",
-    "Maybe",
-    "So"
+    "Bernando de Galvez",
+    "Hernando del Río",
+    "Bernando de Gálvez",
+    "Jean Pierre"
   ]
 },
 {
   numb: 7,
-  question: "A container has a density of 0.8. Will it float?",
-  answer: "No",
+  question: "The French aided the Patriots after_.",
+  answer: "Saratoga",
   options: [
-    "No",
-    "Yes",
-    "Maybe",
-    "So"
+    "Long Island",
+    "Trenton",
+    "Saratoga",
+    "Princeton"
   ]
 },
 {
   numb: 8,
-  question: "Unit for mass:",
-  answer: "Grams",
+  question: "Cornwallis could not surrender because he was _.",
+  answer: "Ill",
   options: [
-    "Pounds",
-    "Grams",
-    "Meters",
-    "Liters"
+    "Dead",
+    "Emotional Damage",
+    "Depressed",
+    "Ill"
+  ]
+},
+  {
+  numb: 9,
+  question: "Where was the Declaration of Independence Signed?",
+  answer: "At the bottom",
+  options: [
+    "Albany",
+    "NYC",
+    "Saratoga",
+    "At the bottom"
+  ]
+},
+  {
+  numb: 10,
+  question: "Who sewed the first American flag?",
+  answer: "Betsy Ross",
+  options: [
+    "Phyllis Wheatly",
+    "Martha Washington",
+    "Betsy Ross",
+    "Crispus Attucks"
   ]
 },
 ];
