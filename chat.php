@@ -40,7 +40,7 @@ function loginForm(){
   <meta name="viewport" content="width=device-width initial-scale=1">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
-    <title>Chat</title>
+    <title>Study+ | Chat</title>
     <link href="chat.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="apple-touch-icon" sizes="180x180" href="/icons/apple-touch-icon.png">
